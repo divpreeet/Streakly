@@ -39,7 +39,7 @@ struct AddHabitView: View {
                     }
                 }
             }
-            .navigationTitle("Add New Habit")
+            .navigationTitle("Add a Habit")
             .toolbar {
                 ToolbarItem(placement: .confirmationAction) {
                     Button("Save") {
